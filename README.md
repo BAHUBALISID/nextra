@@ -11,7 +11,7 @@
  [Presentation](https://github.com/BAHUBALISID/Kol/?tab=readme-ov-file#--presentation) · [Requirements](https://github.com/BAHUBALISID/Kol/?tab=readme-ov-file#--requirements) · [Features](https://github.com/BAHUBALISID/Kol/?tab=readme-ov-file#--features) · [How to use ](https://github.com/BAHUBALISID/Kol/?tab=readme-ov-file#--how-to-use)
 </div>
 
-## <a id="Presentation"></a>🤖 » Presentation
+## <a id="Presentation"></a>🤖 » Presentation 
 ### What is KOL ? 
 Nebula is the future of discord raider bots. In addition to having great efficiency and numerous commands, it is controlled via panel which allows you to destroy it as anonymously as possible.
 
