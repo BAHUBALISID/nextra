@@ -3,7 +3,7 @@
     <img src="https://cdn.discordapp.com/icons/1217116527308963901/a_a69a3d18d6dea267b5de7bfa7d007f17.gif">
 </p>
 <h1>
-    :radioactive:  KOL Nuker :radioactive:
+    :radioactive:  NEXTRA Nuker :radioactive:
 </h1>
 <h3> Made on Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <br></h3>
 <h4>» [Discord Server - https://discord.gg/kolontop] «</h4>
