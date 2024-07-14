@@ -62,10 +62,8 @@ Your Target Server Is Nuked :radioactive:
 <img src="https://media.discordapp.net/attachments/1244225486599487649/1257758705748021258/image.png?ex=66859293&is=66844113&hm=38855328c8f102a85f346620d6ddd513e44430f221e4eef4d687da3b12061cb1&=&format=webp&quality=lossless&width=1099&height=525">
 
 ## Contributors
-> - Nyxoy201 as the owner of [nebula](https://github.com/Nyxoy201/nebula)   
->   &nbsp;&nbsp;&nbsp;&nbsp; Github: https://github.com/zecton0
->   &nbsp;
-> - BAHUBALISID as the Owner of this project   
+
+> - SID as the Owner of this project   
 >   &nbsp;&nbsp;&nbsp;&nbsp; Github: https://github.com/BAHUBALISID
 >   &nbsp;
 > - ShashwatSen as the Helper of this project   
