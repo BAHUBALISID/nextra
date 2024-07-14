@@ -6,13 +6,13 @@
     :radioactive:  NEXTRA Nuker :radioactive:
 </h1>
 <h3> Made on Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <br></h3>
-<h4>» [Discord Server - https://discord.gg/kolontop] «</h4>
+<h4>» [Discord Server - https://discord.gg/u872zDpf6V] «</h4>
   
  [Presentation](https://github.com/BAHUBALISID/Kol/?tab=readme-ov-file#--presentation) · [Requirements](https://github.com/BAHUBALISID/Kol/?tab=readme-ov-file#--requirements) · [Features](https://github.com/BAHUBALISID/Kol/?tab=readme-ov-file#--features) · [How to use ](https://github.com/BAHUBALISID/Kol/?tab=readme-ov-file#--how-to-use)
 </div>
 
 ## <a id="Presentation"></a>🤖 » Presentation 
-### What is KOL ? 
+### What is NEXTRA ? 
 Nebula is the future of discord raider bots. In addition to having great efficiency and numerous commands, it is controlled via panel which allows you to destroy it as anonymously as possible.
 
 ## <a id="Requirements"></a> :brain: » Requirements
@@ -39,7 +39,7 @@ Nebula is the future of discord raider bots. In addition to having great efficie
 
 ## <a id="How To Use"></a> :man_technologist: » Setup [Replit]
 **STEP1**
-Import github to replit [link: https://github.com/BAHUBALISID/Kol.git]
+Import github to replit [link: https://github.com/BAHUBALISID/nextra.git]
 <img src="https://media.discordapp.net/attachments/1244225486599487649/1257761546063450142/image.png?ex=66859538&is=668443b8&hm=f2a46682e00ef1f1836c3a2da9d7844fb56f8ead457a1d7168fd6b610904a2a1&=&format=webp&quality=lossless&width=1099&height=500">
 
 **STEP2**
