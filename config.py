@@ -27,7 +27,7 @@ AUTO_RAID_CONFIG = {
     'channel_type': 'text',  # text/voice
     'channel_name': 'nuked by sid',  # Channel name
     'num_messages': 100,  # Number of message to spam
-    'message_content': '@everyone https://discord.gg/M4nWG6d3YN' # Spam Message
+    'message_content': '@everyone https://discord.gg/u872zDpf6V' # Spam Message
 }
 
 NO_BAN_KICK_ID = {
@@ -38,5 +38,5 @@ NO_BAN_KICK_ID = {
 
 BOT_PRESENCE = {
     "type": "playing",  # "watching", "listening", or "watching"
-    "text": ".gg/dholakpur"  # Your text presence
+    "text": "sid"  # Your text presence
 }
